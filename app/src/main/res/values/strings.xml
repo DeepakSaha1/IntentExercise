@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentExercise</string>
+    <string name="name">Name</string>
+    <string name="submit">Submit</string>
+    <string name="capture_image">capture image</string>
+    <string name="back">back</string>
+</resources>
